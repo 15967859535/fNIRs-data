@@ -1,0 +1,6 @@
+﻿condition,level,fnirs_directory,experiment_semantics,notes
+T1,第一关,data/fnirs_mat/condition-T1,待确认,源文件只提供关卡与T编号，未提供该编号对应预实验、音乐速度或节奏条件的正式对照表。
+T2,第二关,data/fnirs_mat/condition-T2,待确认,源文件只提供关卡与T编号，未提供该编号对应预实验、音乐速度或节奏条件的正式对照表。
+T3,第三关,data/fnirs_mat/condition-T3,待确认,源文件只提供关卡与T编号，未提供该编号对应预实验、音乐速度或节奏条件的正式对照表。
+T4,第四关,data/fnirs_mat/condition-T4,待确认,源文件只提供关卡与T编号，未提供该编号对应预实验、音乐速度或节奏条件的正式对照表。
+T5,第五关,data/fnirs_mat/condition-T5,待确认,源文件只提供关卡与T编号，未提供该编号对应预实验、音乐速度或节奏条件的正式对照表。

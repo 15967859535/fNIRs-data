@@ -1,0 +1,6 @@
+﻿level,condition,max_correct_count,max_error_count,max_false_hit_count,max_over_hit_count
+第一关,T1,42,7,42,5
+第二关,T2,84,14,84,10
+第三关,T3,80,35,80,24
+第四关,T4,80,35,80,24
+第五关,T5,42,7,42,5

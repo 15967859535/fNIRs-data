@@ -1,0 +1,12 @@
+﻿check,status,details
+行为长表记录数,PASS,60条，12名被试×5个条件
+行为键唯一性,PASS,subject_id+condition
+行为缺失值,NOTICE,sub-009在T5的over_hit_count为空，源Excel同样为空
+喜爱度长表记录数,PASS,60条，12名被试×5个条件
+喜爱度范围,PASS,评分应在1至5之间
+任务参数条件数,PASS,5个条件
+fNIRS文件数,PASS,60个.mat文件，T1至T5每个条件12个
+fNIRS文件格式标识,PASS,60个文件均以MATLAB 5.0 MAT-file文件头开头
+条件实验语义,PENDING,源目录未提供T1至T5与预实验/实验一/实验二具体条件的正式对照表
+独立事件标记文件,NOT_FOUND,源目录中未找到独立事件标记表；.mat内可见vector_onset字段名，但未改写或拆分
+独立通道说明文件,NOT_FOUND,源目录中未找到独立通道说明表；.mat内可见probe2d和probe3d字段名

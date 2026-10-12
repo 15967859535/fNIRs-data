@@ -1,0 +1,14 @@
+﻿variable_name,chinese_label,data_type,description
+subject_id,标准化被试编号,string,由源表序号0至11转换为sub-001至sub-012
+source_subject_index,源表被试序号,integer,保留源Excel中的序号
+level,源表关卡名称,string,第一关至第五关
+condition,任务条件编号,string,T1至T5，与fNIRS目录一一对应；具体实验语义待研究团队确认
+correct_count,正确数,numeric,源行为表中的正确数
+error_count,错误数,numeric,源行为表中的错误数
+false_hit_count,误中数,numeric,源行为表中的误中数
+over_hit_count,过击数,numeric,源行为表中的过击数；sub-009在T5为源表空值
+preference_score,喜爱度评分,numeric,源喜爱度表中的5点评分
+max_correct_count,最大正确数,numeric,源任务参数表中的理论最大值
+max_error_count,最大错误数,numeric,源任务参数表中的理论最大值
+max_false_hit_count,最大误中数,numeric,源任务参数表中的理论最大值
+max_over_hit_count,最大过击数,numeric,源任务参数表中的理论最大值
